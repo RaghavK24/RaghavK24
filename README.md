@@ -17,7 +17,6 @@ class Raghav:
     teaching = "TA, Deep Learning for Sequential Data Lab"
     interests = ["systems & databases", "information retrieval", "RAG & agents", "LLM safety"]
     stack     = ["Python", "C++", "PyTorch", "Hugging Face", "LangChain", "SQL"]
-    currently = "going deeper on distributed systems, search and LLM serving"
 ```
 
 ## Projects
